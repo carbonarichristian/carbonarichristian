@@ -22,7 +22,10 @@ While currently deepening my skills in front-end technologies, I'm looking for e
 - A solo project where users can book their favorite yacht to rent.
 - Still in development, using ReactJS and Ruby on Rails.
 
+## 📊 My stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonarichristian&layout=compact&theme=default)
 ## 📫 Let's Connect
 - **Email**: christiancarbonari9@gmail.com
-- **LinkedIn**: Christian Carbonari
-- **GitHub**: github.com/your-username
+- **LinkedIn**: https://www.linkedin.com/in/christian-carbonari/
+- **GitHub**: https://github.com/carbonarichristian
+- **Troopl**: https://troopl.com/christian-carbonari
