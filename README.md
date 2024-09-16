@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian
+I'm a Full-Stack Web Developer based in Brisbane, Australia. I recently completed a 6-month intensive bootcamp in Melbourne where I developed a passion for building web applications and problem-solving.
+While currently deepening my skills in front-end technologies, I'm looking for exciting opportunities to contribute to dynamic teams.
 
-<!--
-**carbonarichristian/carbonarichristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
+- **Frontend**: HTML, CSS, JavaScript (ES6), StimulusJS, Bootstrap
+- **Backend**: Ruby on Rails, SQL, PostgreSQL, RESTful API
+- **Version Control**: Git, GitHub
+- **Deployment**: Heroku
+- **UI/UX Tools**: Figma
+## 🌱 Currently Learning
+- ReactJS
+- NextJS
+- Deepening knowledge on UX/UI Design to enhance user-centered projects
+## 💡 Projects
+**DefendHer Run**
+- Web app for women that want to meet and run safely together.
+- In a team of three, we used Ruby On Rails, APIs, Cloudinary, Heroku and more.
+- Planning to further develop the App by improving UI and responsiveness.
 
-Here are some ideas to get you started:
+**Yacht Club 2024**
+- A solo project where users can book their favorite yacht to rent.
+- Still in development, using ReactJS and Ruby on Rails.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- **Email**: christiancarbonari9@gmail.com
+- **LinkedIn**: Christian Carbonari
+- **GitHub**: github.com/your-username
