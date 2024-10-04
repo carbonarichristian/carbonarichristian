@@ -3,7 +3,7 @@ I'm a Full-Stack Web Developer based in Brisbane, Australia. I recently complete
 While currently deepening my skills in front-end technologies, I'm looking for exciting opportunities to contribute to dynamic teams.
 
 ## 🚀 Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript (ES6), StimulusJS, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript (ES6), StimulusJS, ReactJS Bootstrap
 - **Backend**: Ruby on Rails, SQL, PostgreSQL, RESTful API
 - **Version Control**: Git, GitHub
 - **Deployment**: Heroku
