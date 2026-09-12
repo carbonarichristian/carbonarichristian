@@ -1,26 +1,12 @@
 # 👋 Hi, I'm Christian
-I'm a Full-Stack Web Developer based in Brisbane, Australia. I recently completed a 6-month intensive bootcamp in Melbourne where I developed a passion for building web applications and problem-solving.
-While currently deepening my skills in front-end technologies, I'm looking for exciting opportunities to contribute to dynamic teams.
+I'm a Shopify Developer with a background in full-stack web development and web design. After completing an intensive 6-month Full-Stack Web Development bootcamp in Australia, I worked as a Web Designer for a B2B eCommerce, experience that led me to specialize in eCommerce.  I then started collaborating as a freelance Shopify Developer with brands and agencies in both Italy and Australia, on front-end implementations and conversion rate optimisation tweaks.
 
 ## 🚀 Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript (ES6), StimulusJS, ReactJS, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript (ES6), StimulusJS, ReactJS, Bootstrap, Liquid, NextJS, AlpineJS
 - **Backend**: Ruby on Rails, SQL, PostgreSQL, RESTful API
 - **Version Control**: Git, GitHub
-- **Deployment**: Heroku
+- **Deployment**: Heroku, Vercel
 - **UI/UX Tools**: Figma
-## 🌱 Currently Learning
-- ReactJS
-- NextJS
-- Deepening knowledge on UX/UI Design to enhance user-centered projects
-## 💡 Projects
-**DefendHer Run**
-- Web app for women that want to meet and run safely together.
-- In a team of three, we used Ruby On Rails, APIs, Cloudinary, Heroku and more.
-- Planning to further develop the App by improving UI and responsiveness.
-
-**Yacht Club 2024**
-- A solo project where users can book their favorite yacht to rent.
-- Still in development, using ReactJS and Ruby on Rails.
 
 ## 📊 My stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonarichristian&layout=compact&theme=default)
@@ -28,4 +14,4 @@ While currently deepening my skills in front-end technologies, I'm looking for e
 - **Email**: christiancarbonari9@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/christian-carbonari/
 - **GitHub**: https://github.com/carbonarichristian
-- **Troopl**: https://troopl.com/christian-carbonari
+- **Personal Website**: https://www.christiancarbonari.com/
